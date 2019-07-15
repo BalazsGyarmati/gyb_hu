@@ -7,7 +7,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Title
+title: Balazs Gyarmati
 title_separator: "-"
 name: Balazs Gyarmati
 email: 
