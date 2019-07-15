@@ -1,4 +1,0 @@
-
-# Gyarmati Balázs
-## DevOps Engineer
-
