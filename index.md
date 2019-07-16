@@ -5,6 +5,8 @@
 layout: home
 author_profile: false
 title: " "
+header:
+  overlay_image: https://avatars2.githubusercontent.com/u/40543456?s=460&v=4
 ---
 # Balazs Gyarmati
 ## DevOps Engineer
