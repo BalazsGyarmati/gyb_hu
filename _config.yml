@@ -58,7 +58,7 @@ author:
   avatar : "/assets/images/gyb.jpg"
   bio    : "DevOps Engineer"
   links:
-    - label: "compyld"
+    - label: "compyld.io"
       icon: "fas fa-fw fa-link"
       url: "https://compyld.io"
     - label: "GitHub"
