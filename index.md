@@ -7,14 +7,14 @@ author_profile: false
 title: " "
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: ""
+      icon: "fab fa-5x fa-github"
       url: "https://github.com/BalazsGyarmati"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+    - label: ""
+      icon: "fab fa-5x fa-linkedin"
       url: "https://hu.linkedin.com/in/gyarmatibalazs/hu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: ""
+      icon: "fab fa-5x fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
 ---
 ## Balazs Gyarmati
