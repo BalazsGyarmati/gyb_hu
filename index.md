@@ -17,5 +17,55 @@ footer:
       icon: "fab fa-4x fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
 ---
-## Balazs Gyarmati
-### DevOps Engineer
+{% raw %}
+<table border="0" cellspacing="0" cellpadding="0" width="800">
+
+			<tr>
+
+				<td rowspan="3" height="390" width="350" align="right">
+
+				<img src="assets/images/gyb.jpg" height="390"></img>
+
+				</td>
+
+				<td height="140" width="450" align="center" valign="bottom">
+
+				<p style="font-family: calibri, tahoma, verdana, courier; font-size: 44pt; font-variant: small-caps">
+
+				Gyarmati Bal&aacute;zs
+
+				</p>
+
+				</td>
+
+			</tr>
+
+			<tr>
+
+				<td height="30" width="450" align="center" valign="bottom">
+
+				<p style="font-family: calibri, tahoma, verdana, courier; font-size: 18pt;">
+
+				DevOps Engineer
+
+				</p>
+
+				</td>
+
+			</tr>
+
+			<tr>
+
+				<td height="120" width="450" align="center" valign="center">
+								<br>
+				&nbsp;&nbsp;&nbsp;
+				<a href="https://www.redhat.com/rhtapps/services/certifications/badge/verify/RIV27R55WEQOJ33PLBRUYWTCNUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=" target="_blank">
+     				<img src="redhat.png" width="109" border="0" alt="View certificate"></a>
+					
+				&nbsp;&nbsp;&nbsp;
+                                <img src="itil.png" height="122" border="0">
+
+		</td>
+	</tr>
+</table>
+{% endraw %}
