@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
-title: "Balazs Gyarmati"
+title: " "
 ---
-## Kisebb content
+# Balazs Gyarmati
+## DevOps Engineer
