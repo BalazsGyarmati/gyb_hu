@@ -8,13 +8,13 @@ title: " "
 footer:
   links:
     - label: ""
-      icon: "fab fa-5x fa-github"
+      icon: "fab fa-4x fa-github"
       url: "https://github.com/BalazsGyarmati"
     - label: ""
-      icon: "fab fa-5x fa-linkedin"
+      icon: "fab fa-4x fa-linkedin"
       url: "https://hu.linkedin.com/in/gyarmatibalazs/hu"
     - label: ""
-      icon: "fab fa-5x fa-twitter-square"
+      icon: "fab fa-4x fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
 ---
 ## Balazs Gyarmati

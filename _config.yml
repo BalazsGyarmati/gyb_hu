@@ -56,10 +56,10 @@ plugins:
 author:
   name   : "Balazs Gyarmati"
   avatar : "/assets/images/gyb.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "DevOps Engineer"
   links:
     - label: "compyld"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://compyld.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
