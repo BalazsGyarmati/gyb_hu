@@ -18,6 +18,8 @@ github_username: BalazsGyarmati
 search: true
 locale: "hu-HU"
 masthead_title: " "
+teaser: "/assets/images/gyb.jpg"
+og_image: "/assets/images/gyb.jpg"
 
 # Build settings
 markdown: kramdown
@@ -57,14 +59,14 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "compyld"
-      icon: "https://avatars1.githubusercontent.com/u/49989511?s=460&v=4"
+      icon: "fab fa-fw fa-link"
       url: "https://compyld.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BalazsGyarmati"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/gyarmatibalazs"
+      url: "https://hu.linkedin.com/in/gyarmatibalazs/hu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
@@ -90,7 +92,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
