@@ -5,6 +5,17 @@
 layout: home
 author_profile: false
 title: " "
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BalazsGyarmati"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://hu.linkedin.com/in/gyarmatibalazs/hu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BalazsGyarmati"
 ---
 ## Balazs Gyarmati
 ### DevOps Engineer
