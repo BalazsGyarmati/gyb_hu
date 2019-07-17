@@ -8,6 +8,9 @@ title: " "
 footer:
   links:
     - label: ""
+      image: "assets/images/gyb.jpg"
+      url: "https://compyld.io"
+    - label: ""
       icon: "fab fa-4x fa-github"
       url: "https://github.com/BalazsGyarmati"
     - label: ""
