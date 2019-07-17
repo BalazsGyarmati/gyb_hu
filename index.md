@@ -17,6 +17,6 @@ footer:
       icon: "fab fa-4x fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
 ---
-![Balazs Gyarmati](assets/images/gyb.png  =350x390)
-[![RedHat Certified Engineer](assets/images/redhat.png "Verify RedHat certificate" =109x)](https://www.redhat.com/rhtapps/services/certifications/badge/verify/RIV27R55WEQOJ33PLBRUYWTCNUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=)
-![ITIL](assets/images/itil.png "ITIL" =217x)
+<img src="assets/images/gyb.png" alt="Balazs Gyarmati" width="350" height="390" />
+[<img src="assets/images/redhat.png" alt="Red Hat Certified Engineer" width="109" />](https://www.redhat.com/rhtapps/services/certifications/badge/verify/RIV27R55WEQOJ33PLBRUYWTCNUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=)
+<img src="assets/images/itil.png" alt="ITIL certified" width="217" />
