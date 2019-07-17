@@ -8,7 +8,7 @@ title: " "
 footer:
   links:
     - label: ""
-      image: "assets/images/gyb.jpg"
+      image: "assets/images/compyld.jpg"
       url: "https://compyld.io"
     - label: ""
       icon: "fab fa-4x fa-github"
