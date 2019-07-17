@@ -14,8 +14,8 @@ layout: archive
     {% if page.footer.links %}
       {% for link in page.footer.links %}
         {% if link.label and link.url %}
-          {% if link.image %}
-            <li><a href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer"><img src="{{ link.image }}" /> {{ link.label }}</a></li>
+          {% if link.custom_icon %}
+            <li><a href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer"><span class="{{ link.custom_icon }}"></span> {{ link.label }}</a></li>
           {% else %}
             <li><a href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
           {% endif %}
