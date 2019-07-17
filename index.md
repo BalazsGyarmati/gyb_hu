@@ -9,7 +9,7 @@ footer:
   links:
     - label: ""
 #      image: "assets/images/compyld_tn.jpg"
-      custom_icon: "fas fa-list-old-stylex"
+      icon: "fas fa-list-old-stylex"
       url: "https://compyld.io"
     - label: ""
       icon: "fab fa-4x fa-github"
