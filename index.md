@@ -17,6 +17,6 @@ footer:
       icon: "fab fa-4x fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
 ---
-![Balazs Gyarmati](assets/images/gyb.png "Balazs Gyarmati" =350x390)
+![Balazs Gyarmati](assets/images/gyb.png  =350x390)
 [![RedHat Certified Engineer](assets/images/redhat.png "Verify RedHat certificate" =109x)](https://www.redhat.com/rhtapps/services/certifications/badge/verify/RIV27R55WEQOJ33PLBRUYWTCNUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=)
 ![ITIL](assets/images/itil.png "ITIL" =217x)
