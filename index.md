@@ -17,8 +17,10 @@ footer:
       icon: "fab fa-4x fa-twitter-square"
       url: "https://twitter.com/BalazsGyarmati"
 ---
+<center>
 <img src="assets/images/gyb.jpg" alt="Balazs Gyarmati" width="350" height="390" /><br/>
 # Balazs Gyarmati
 ## DevOps Engineer
 [<img src="assets/images/redhat.png" alt="Red Hat Certified Engineer" width="109" />](https://www.redhat.com/rhtapps/services/certifications/badge/verify/RIV27R55WEQOJ33PLBRUYWTCNUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=)
 <img src="assets/images/itil.png" alt="ITIL certified" width="217" />
+</center>
