@@ -25,11 +25,7 @@ footer:
 # Balazs Gyarmati
 ## DevOps Engineer
 
-{% raw %}
-<div align="center">
-{% endraw %}
+<p align="center">
 | [<img src="assets/images/redhat.png" alt="Red Hat Certified Engineer" width="109" />](https://www.redhat.com/rhtapps/services/certifications/badge/verify/RIV27R55WEQOJ33PLBRUYWTCNUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ=) | Certificate number:<br/>150-113-462 |
 | [<img src="assets/images/itil_tn.jpg" alt="ITIL certified" width="109" />](https://www.peoplecert.org/for-corporations/certificate-verification-service) | Certificate number:<br/>GR750342625BG |
-{% raw %}
-</div>
-{% endraw %}
+</p>
