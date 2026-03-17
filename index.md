@@ -10,7 +10,6 @@ layout: null
     <link rel="canonical" href="https://github.com/BalazsGyarmati">
 </head>
 <body>
-    <h1>Redirecting to <a href="https://github.com/BalazsGyarmati">GitHub</a>...</h1>
     <script>
         window.location.href = "https://github.com/BalazsGyarmati";
     </script>
